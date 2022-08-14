@@ -1,0 +1,9 @@
+main: me.antiitemteleport.AntiItemTeleport
+version: 1.0
+author: SandwichaKSA
+name: AntiItemTeleport
+softdepend: [ProtocolLib]
+commands:
+  antiitemteleport:
+    usage: /<command>
+    aliases: [ait, aiteleport, aitemteleport, aitp, aitemtp, noitemteleport, stopitemteleport, itemteleport]

@@ -1,0 +1,3 @@
+# Any world specified here will skip anti item teleport function of preventing the dropped items from getting teleported
+disabled-worlds:
+- "some-world"
